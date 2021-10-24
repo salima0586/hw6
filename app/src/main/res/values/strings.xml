@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Test_hw6</string>
+    <string name="add">add</string>
+    <string name="subtract">subtract</string>
+    <string name="divide">divide</string>
+    <string name="multiply">multiply</string>
+    <string name="result">Result</string>
+</resources>
